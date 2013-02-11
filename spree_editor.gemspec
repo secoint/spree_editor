@@ -18,4 +18,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency('spree_core', '>= 0.70.0')
   s.add_dependency('tinymce-rails', '>= 3.4.7')
+  s.add_dependency('ckeditor')
 end
