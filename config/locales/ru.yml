@@ -43,3 +43,22 @@ ru:
   rich_editor_engine: "Реализация визуального редактора"
   rich_editor_ids: "Идентификаторы"
   rich_editor_ids_description: "Перечислите идентификаторы элементов textarea через пробел"
+
+  number:
+    format:
+      separator: "."
+      delimiter: ","
+      precision: 3
+      significant: false
+      strip_insignificant_zeros: false 
+    human:
+     storage_units:
+       format: "%n %u"
+       units:
+         byte:
+           one: "байт"
+           other: "байт"
+         kb: "КБ"
+         mb: "МБ"
+         gb: "ГБ"
+         tb: "ТБ"
