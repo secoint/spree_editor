@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.name        = 'spree_editor'
   s.version     = '0.50.0'
   s.summary     = 'Adds support of several WYSIWYG editors to Spree'
-  s.description = 'Atm supported: YUIRichEditor, WYMEditor, TinyMCE'
+  s.description = 'Atm supported: YUIRichEditor, WYMEditor, TinyMCE, CKEditor'
   s.required_ruby_version = '>= 1.8.7'
 
   s.authors           = ['Alexander Shuhin', 'Roman Smirnov', 'divineforest']
