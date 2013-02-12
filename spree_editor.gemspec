@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency('spree_core', '>= 0.40.0')
+  s.add_dependency('ckeditor', '~> 3.6.0')
 end
