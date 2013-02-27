@@ -37,8 +37,6 @@ TinyMCE will not be loaded unless it finds a language package matching your `Spr
 ### Spree >= 1.0.0
 1. Gemfile:    
 
-    `gem 'ckeditor'`
-    
     `gem 'spree_editor', :git => 'git://github.com/secoint/spree_editor.git'`
 
 2. Install gems:
@@ -55,8 +53,6 @@ TinyMCE will not be loaded unless it finds a language package matching your `Spr
 
 ### Spree 0.70.x
 1. Gemfile:    
-
-    `gem 'ckeditor'`
 
     `gem 'spree_editor', :git => 'git://github.com/secoint/spree_editor.git', :branch => '0-70-x'`
 
