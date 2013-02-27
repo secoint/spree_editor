@@ -1,4 +1,5 @@
 require 'spree_core'
+require 'ckeditor'
 
 module SpreeEditor
   class Engine < Rails::Engine
