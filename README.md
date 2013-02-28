@@ -20,11 +20,11 @@ This extension provides an inline rich-text editor for Spree. It implements diff
 
 2. Install the gem:
 
-    bundle install
+    `bundle install`
 
 3. Install the assets:
 
-    rails g spree_editor:install
+    `rails g spree_editor:install`
 
 # Image uploads with CKEditor #
 
