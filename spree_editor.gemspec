@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 1.8.7'
 
-  s.add_dependency('spree_core', '>= 0.70.0')
+  s.add_dependency('spree_core', '~> 0.70.0')
   s.add_dependency('tinymce-rails', '>= 3.4.7')
   s.add_dependency('ckeditor')
 end
