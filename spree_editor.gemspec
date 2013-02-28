@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary     = 'Adds support of several WYSIWYG editors to Spree'
   s.description = 'Atm supported: WYMEditor, TinyMCE, CKEditor'
 
-  s.authors           = ['Alexander Shuhin', 'Roman Smirnov', 'divineforest', 'Marc Lee']
+  s.authors           = ['Alexander Shuhin', 'Roman Smirnov', 'divineforest', 'Marc Lee', 'Babur Usenakunov']
   s.email             = 'service@secoint.ru'
   s.homepage          = 'http://github.com/secoint/spree_editor'
 
